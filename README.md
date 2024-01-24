@@ -4,7 +4,7 @@ Getting 0 fps in game? Roblox very laggy! Lag switch is a app that disconnects t
 ![icon](https://raw.githubusercontent.com/susmic-gaming/lag-switch-roblox/main/lagswitch.png)
 Made by susmic gaming on youtube
 ![icon](https://raw.githubusercontent.com/susmic-gaming/roblox-fflags/main/yt)
-IF YOU ARE GOING TO USE THIS IN A VID CREDIT ME AND PAST THIS TEXT IN THE VIDEO DESCRIPTION
+IF YOU ARE GOING TO USE THIS IN A VID CREDIT ME AND PASTE THIS TEXT IN THE VIDEO DESCRIPTION
 ```c++
 Software made by
 Susmic gaming on youtube
